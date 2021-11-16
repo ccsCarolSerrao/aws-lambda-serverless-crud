@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ccsCarolSerrao/aws-lambda-serverless-crud#readme",
   "devDependencies": {
-    "aws-sdk": "^2.479.0",
+    "aws-sdk": "^2.814.0",
     "serverless": "^1.45.1"
   },
   "dependencies": {
